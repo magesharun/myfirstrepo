@@ -1,2 +1,2 @@
-const a="hello javascript";
+const a="hi  javascript";
 console.log(a);
